@@ -1,4 +1,9 @@
+.idea/
 typings/
 node_modules/
+comp/
+build/
+libr/
+bower_lib/
 *.js
 *.js.map
